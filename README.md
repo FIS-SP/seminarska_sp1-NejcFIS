@@ -1,5 +1,5 @@
 
-# Seminarska 
+# Seminarska 35210099
 
 ## Opis 
 Za seminarsko nalogo sem naredil front end kodo za program, s katerim ustvarjaš opombe/zapiske.
